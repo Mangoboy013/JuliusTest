@@ -5,6 +5,7 @@ public class Main {
 
         System.out.println("Hello World");
 
+
         //https://www.oracle.com/technetwork/java/codeconventions-135099.html lies dir die naming conventions durch, bekommst punktabzüge für sowas
     }
 }
